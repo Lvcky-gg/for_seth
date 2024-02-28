@@ -1,0 +1,13 @@
+Pipfile.lock
+.venv/
+.env
+.flaskenv
+
+# Virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
